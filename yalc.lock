@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "babel-type-scopes": {
+      "signature": "865b4009a27e35cedebabfcffabf6dbd",
+      "file": true,
+      "replaced": "^1.1.0"
+    }
+  }
+}
