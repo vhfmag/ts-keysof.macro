@@ -1,1 +1,1 @@
-export default function typeGuard<T>(value: unknown): value is T;
+export default function keysOf<T extends Record<any, any>>(): keyof T;
