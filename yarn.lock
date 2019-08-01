@@ -426,13 +426,6 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.0.0"
 
-"@babel/plugin-syntax-typescript@7.3.3":
-  version "7.3.3"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-typescript/-/plugin-syntax-typescript-7.3.3.tgz#a7cc3f66119a9f7ebe2de5383cce193473d65991"
-  integrity sha512-dGwbSMA1YhVS8+31CnPR7LB4pcbrzcV99wQzby4uAfrkZPYZlQ7ImwdpzLqi6Z6IL02b8IAL379CaMwo0x5Lag==
-  dependencies:
-    "@babel/helper-plugin-utils" "^7.0.0"
-
 "@babel/plugin-syntax-typescript@^7.2.0":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-typescript/-/plugin-syntax-typescript-7.2.0.tgz#55d240536bd314dcbbec70fd949c5cabaed1de29"
@@ -2082,11 +2075,6 @@ gauge@~2.7.3:
     string-width "^1.0.1"
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
-
-generic-type-guard@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/generic-type-guard/-/generic-type-guard-3.1.0.tgz#f5953f95b7156085e3e4f31bb34e9247000b900a"
-  integrity sha512-Xaly4KFIY3rp6XTHQ4oSqf+qhmlObypiv6ZHH4PWPkjIyThKOFDzUaaKXtEenUtDT7YZU/rb9CLJL/RPJt08Cg==
 
 get-caller-file@^1.0.1:
   version "1.0.3"
