@@ -1,1 +1,1 @@
-export default function keysOf<T extends Record<any, any>>(): keyof T;
+export default function keysOf<T extends Record<any, any>>(): Array<keyof T>;
