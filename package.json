@@ -1,7 +1,7 @@
 {
-  "name": "tsguard.macro",
-  "version": "0.0.2",
-  "description": "Babel macro that automatically generates type guards for a given type (WIP)",
+  "name": "ts-keysof.macro",
+  "version": "0.0.1",
+  "description": "Babel macro that automatically an array of keys from a given object type",
   "author": "Victor Magalhães <victorhfmag+npm@gmail.com>",
   "repository": "https://github.com/vhfmag/tsguard.macro.git",
   "main": "src/macro.js",
